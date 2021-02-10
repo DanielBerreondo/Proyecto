@@ -1,0 +1,44 @@
+1)Ingresar Nombre
+2)Ingresar Edad
+3) Es casado?
+	3.1) Si 
+		Indicar la edad de conyuge
+		*si la edad del conyuge esta entre 18 y 24 anos
+		realizar un recargo del 10% sobre el base.
+		* si la edad del conyuge esta entre 25 y 49 a;os
+		realizar un recargo del 20% sobre el base.
+		*si la edad del conyuge es de 50a;os en adelante
+		realizar un recargo del 30%
+	3.2) No
+		No realizar ningun recargo.
+
+4) Tiene hijos?
+	4.1) Si
+		Cuantos hijos tiene?
+		* Realizar recargo del 20% sobre el base por cada hijo.
+	4.2) No
+		No realizar ningun recargo.
+
+5) Tiene propiedades?
+	5.1) si
+		Cuanto valen sus propiedades?
+		* Realizar recargo del 35% sobre sus propiedades
+	5.2) No
+		No Realizar ningun recargo
+
+6) Tiene salario?
+	6.1) Si
+		Cuanto es su salario?
+		* Realizar 5% de recargo sobre el salario
+	6.2) No
+		No Realizar ningun recargo
+
+7) Total del seguro
+	Sumar todas las cuentas parciales desde el punto 3) :
+	
+		3) + 4) + 5) + 6)
+8) Desea hacer otra cotizacion?
+	*Si -> Volver al punto 1
+	*No -> Salir
+	
+	

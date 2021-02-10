@@ -1,0 +1,26 @@
+Se necesita un programa para realizar cotizaciones
+para los clientes de una aseguradora, este programa debe
+solicitar datos como: 
+* Nombre
+* Edad
+* Estado Civil
+* Cantidad de hijos
+* Cantidad de propiedades
+* Salario
+para brindarle el precio de su seguro.
+
+El programa debe ser capaz de agregar recargos del
+10%, 20% o 30% (sobre el base de Q2,000) segun sea 
+la edad del conyuge o no realizar ningun recargo en
+caso de ser soltero/a.
+
+El programa debe ser capaz de agregar recargo del 
+20% sobre el base por cada hijo.
+
+El programa debe ser capaz de agregar recargo del 35%
+sobre el base por cada propiedad y un 5% sobre el salario 
+del usuario.
+
+El programa debe ser capaz de realizar la cantidad de cotizaciones
+que el cliente desee hasta que este mismo le indique que desea salir
+del cotizador.
